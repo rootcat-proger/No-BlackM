@@ -1,8 +1,8 @@
 import requests, os, sys
 from time import sleep
 from bs4 import BeautifulSoup as bs
-# Мой Telegram: @FELIX4 - Для вопросов и поддержки (советы и т.д)
-# Наша группа в Telegram: https://t.me/No_Black_Mail_chat - Там вы можете предлогать свои идеи и т.д
+# Мой Telegram: @root_cat - Для вопросов и поддержки (советы и т.д)
+
 
 dataAV = []
 RESET ='\033[0m'
@@ -301,4 +301,4 @@ try:
 except KeyboardInterrupt:
     sys.exit(f'\n{YELLOW}{BOLD}[!] {RED}Принудительная остановка кода{RESET}')
 except:
-    sys.exit(f'\n{YELLOW}{BOLD}[!] {RED}Возможно, плохое интернет-соединение, попробуйте перезагрузить или напишите мне:{RESET}\n{YELLOW}{BOLD}[+] {LI_G}Telegram:{YELLOW} @FELIX4{RESET}')
+    sys.exit(f'\n{YELLOW}{BOLD}[!] {RED}Возможно, плохое интернет-соединение, попробуйте перезагрузить или напишите мне:{RESET}\n{YELLOW}{BOLD}[+] {LI_G}Telegram:{YELLOW} @root_cat{RESET}')
