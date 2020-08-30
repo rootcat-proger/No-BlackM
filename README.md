@@ -21,7 +21,7 @@
 apt install git 
 pkg install python
 pip install requests bs4 
-git clone https://github.com/DataSC3/No-BlackM
+git clone https://github.com/rootcat-proger/No-BlackM
 cd No-BlackM
 python No-BlackMail.py
 ``` 
@@ -30,7 +30,7 @@ python No-BlackMail.py
 sudo apt-get install git 
 sudo apt-get install python3
 pip3 install requests bs4 
-git clone https://github.com/DataSC3/No-BlackM
+git clone https://github.com/rootcat-proger/No-BlackM
 cd No-BlackM
 python3 No-BlackMail.py
 ```
@@ -42,7 +42,7 @@ python3 No-BlackMail.py
 pip install requests bs4
 ```
 **- Запуск:\
-Скачайте репозиторий можно тут -> https://github.com/DataSC3/No-BlackM/archive/master.zip и распакуйте в удобное место.**
+Скачайте репозиторий можно тут ->https://github.com/rootcat-proger/No-BlackM  и распакуйте в удобное место.**
 
 **Перейдите в папку со скриптом откройте в этой папке консоль `Shift + ПКМ`**
 **Запустите скрипт командой `python No-BlackMail.py`**
